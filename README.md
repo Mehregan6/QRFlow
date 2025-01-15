@@ -80,8 +80,16 @@ Example log entry:
    ```bash
    2023-10-01 12:34:56 - QR Code generated with data: https://example.com, Color: #000000, Background: #FFFFFF, Size: 300, Format: png
    ```
-Star the Repo ⭐
+## **Star the Repo ⭐**
+
 If you find QRFlow useful, please give it a star on GitHub! Your support means a lot to us.
 
-GitHub Stars
 [![GitHub Stars](https://img.shields.io/github/stars/Mehregan6/QRFlow?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mehregan6/QRFlow/stargazers)
+
+## **Contact Me 📞**
+
+If you have any questions, suggestions, or business inquiries, feel free to reach out to me on Telegram. I'm always happy to connect!
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev_Mehregan)
+
+**Click the button above to message me on Telegram!**
