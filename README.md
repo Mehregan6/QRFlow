@@ -43,3 +43,45 @@
    pip install -r requirements.txt
    python app.py
 Open your browser and go to http://127.0.0.1:5000.
+
+---
+
+## **Usage 🖥️**
+Enter Data: Type the data you want to encode in the QR Code (e.g., a URL, text, or contact info).
+
+**Customize:**
+
+**Color: Choose the QR Code color.**
+
+**Background Color: Choose the background color.**
+
+**Size: Set the size of the QR Code (100–1000 pixels).**
+
+**Format: Choose the output format (PNG, JPEG, or SVG).**
+
+**Generate: Click the "Generate QR Code" button.**
+
+**Download: Click the "Download" button to save your QR Code.**
+
+---
+
+## **Logging 📝**
+QRFlow automatically logs every QR Code generation. You can find the logs in the log.log file in the project directory. Each log entry includes:
+
+Timestamp
+
+Data encoded in the QR Code
+
+Color and background color
+
+Size and format
+
+Example log entry:
+   ```bash
+   2023-10-01 12:34:56 - QR Code generated with data: https://example.com, Color: #000000, Background: #FFFFFF, Size: 300, Format: png
+   ```
+Star the Repo ⭐
+If you find QRFlow useful, please give it a star on GitHub! Your support means a lot to us.
+
+GitHub Stars
+[![GitHub Stars](https://img.shields.io/github/stars/Mehregan6/QRFlow?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mehregan6/QRFlow/stargazers)
